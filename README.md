@@ -16,12 +16,11 @@ If you haven't then you have to manually start the application once every time y
 
 ## Files in this repo
 
-There are two element in this project folder:
+There are two elements in this project folder:
 
 "loop.applecript" is the Applescript source code file, manipulate it withe the OSX Applescript Editor application
 
-"Duckless Facetime.app" is the assembled OSX application bundle, the script source is actually somewhere within it. This is all you need if you have no intention of modifying the script.
-
+"Duckless Facetime.app" is the assembled OSX application bundle, the script source is actually somewhere within it. This is all you need if you have no intention of modifying the script. (This is also available in a zip archive for easier download)
 
 ## TODO
 
